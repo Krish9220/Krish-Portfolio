@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="290dp"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:padding="15dp"
+    android:background="#CDF3A2">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:src="@drawable/profile_img"
+        android:contentDescription="HeaderProfile"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="It's Krish"
+        android:textSize="35dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🔹Passionate Android Developer\n🔹Prototype Maker | Team Management\n🔹Unique Thinker | Problem Solver"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:textStyle="italic"/>
+
+</LinearLayout>

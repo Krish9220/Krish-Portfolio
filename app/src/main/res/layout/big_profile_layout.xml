@@ -1,0 +1,6 @@
+<de.hdodenhof.circleimageview.CircleImageView
+    android:layout_width="350dp"
+    android:layout_height="350dp"
+    android:src="@drawable/profile_img"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/transparent"/>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Krish Portfolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    My Strings-->
+    <string name="bio" >🔹Passionate Android Developer\n🔹Prototype Maker | Team Management\n🔹Unique Thinker | Problem Solver</string>
+    <string name="about"></string>
+
+<!--    About me-->
+    <string name="aboutme">I am Krish,Passionate for Android Development \nWant to create something in digital world that impact the Society .\nI have Proficiency in C and C++, Basic Understanding of Java,Currently working on my skills by learning core concepts of Android,Wanted to join good MNCs where\nI can enhance my Skills..\n</string>
+
+<!--    Projects String-->
+    <string name="caculator">🔸User Friendly UI\n🔸Arithmetic Operation\n🔸Custom Layout\n🔸Double Screen Output\n🔸Custom Icon and Splash Screen</string>
+    <string name="BMI">🔸Health Related APP\n🔸User Interactive\n🔸Tells Body Mass Index\n🔸Custom Background for Different\n     Body Mass</string>
+    <string name="Notes">🔸Manger Your Daily Tasks\n🔸Room Database Integrated\n🔸Notes CURD operation\n🔸Pin/Unpin Feature\n🔸Search Feature\n🔸Notes Created Date\n🔸Random Notes BG. Color</string>
+    <string name="weather">🔸Real Time Weather Check\n🔸Current Location Tracking\n🔸Weather Forecasting\n🔸Weather API\n🔸Volley for network operations\n🔸Picasso for image loading</string>
+    <string name="contactlist">🔸Beautiful UI\n🔸Image,Name and Number list\n🔸CURD Operation\n🔸Scrolling Animation</string>
+    <string name="OR">🔸Use the App for fun\n🔸Convert Any Text in QR\n🔸Encode QR using Google Lens\n🔸Crete QR for Websites Search</string>
+
+
+<!--    Education-->
+    <string name="college">Indraprastha Insttute of Techonolgy and Development\n(IITM Janak Puri)\nBatch - 2022-2025\nCGPA - 7</string>
+    <string name="twelfth">Sarvodaya Bal Vidhalya\nRohini Sector -20\nBoard -CBSE\nCGPA - 8</string>
+    <string name="tenth">Sarvodaya Bal Vidhalya\nRohini Sector -20\nBoard -CBSE</string>
+    <string name="course">YouTube -\nC++ (CodeHelp)\nC (Collage Walla)\nJava (WcCubeTech)\nAndroid (WcCubeTech)</string>
+    <string name="additionalcourse">MS-Office\nAdvance Excel\nCanva\nChatGPT\nPrompt Engineering</string>
+
+<!--    Skills-->
+    <string name="programmingLanguage">C\nC++\nJava(Basic)</string>
+    <string name="programmingConcepts">OOPs\t\t\t\tTree\nGraph\t\t\tRecursion</string>
+    <string name="androidDevelopment">Android Studio\nJava\nXML</string>
+    <string name="softSkills">Communication\tConsultant\nTeam Lead\t\t\t\t\t\t\tProblem Solving\nResearch\t\t\t\t\t\t\t\t\tCritical Thinking</string>
+    <string name="developerTool">VS Code\nAndroid Studio\nTurboC++</string>
+    <string name="additionalSkills">Excel\nWord\nCanva\nChatGPT</string>
+\</resources>
